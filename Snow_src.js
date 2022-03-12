@@ -69,5 +69,6 @@ setTimeout("snowIE()", speed);
 if (ns4up) snowNS();
 else if (ie4up) snowIE();
 for(i=0;i<24;i++)document.write("Снег на странице<br>");
-// -->
+// -->♥
+//I don't know if this script might not work, ahah
 </script>
